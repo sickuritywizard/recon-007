@@ -6,10 +6,11 @@ Bug Bounty tool to automate the recon process.
 
 
 ## Follow
-Twitter --> [Killer007](https://twitter.com/killer007p)
+**Twitter** --> [Killer007](https://twitter.com/killer007p)
 
-## Support 
-Like My Work?
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=59LH5AHNQ8XZW)
 
-<a href="https://www.buymeacoffee.com/killer007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 50px !important;" ></a>
+## Support
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/pkiller007)
+
+<a href="https://www.buymeacoffee.com/killer007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 20px !important;" ></a>
