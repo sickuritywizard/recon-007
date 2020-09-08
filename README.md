@@ -1,4 +1,8 @@
-# Recon-007
 Bug Bounty tool to automate the recon process.
 
-## [INDEVELOPMENT]
+## Mind Map
+
+## Follow
+Twitter --> [Killer007](https://twitter.com/killer007p)
+
+## Support
