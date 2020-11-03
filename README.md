@@ -8,6 +8,7 @@ Recon-007 is a Bug bounty tool to automate the recon process. It uses threading 
 ## INSTALLATION
 ```
 Will be Adding the installation instructions soon when the stable version is released.
+Release Date: First Week of December [Hope so]
 ```
 
 ## USAGE
