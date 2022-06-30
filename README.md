@@ -7,7 +7,18 @@ Recon-007 is a Bug bounty tool to automate the recon process. It uses threading 
 
 ## INSTALLATION
 ```
-Will be Adding the installation instructions soon when the stable version is released.
+1)Clone
+git clone https://github.com/killeroo7/recon-007/ && cd recon-007 && chmod +x verify_tools.sh recon-007.py printToolSource.sh
+ln -s $PWD/recon-007.py /usr/local/bin/recon-007
+
+2)Install Requirements
+pip install -r requirements.txt
+
+3)Check if All the tools are installed
+./verify_tools.sh
+
+4)To print the source of each tool
+./printToolSource.sh
 ```
 
 ## USAGE
