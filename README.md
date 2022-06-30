@@ -19,13 +19,23 @@ pip install -r requirements.txt
 
 4)To print the source of each tool
 ./printToolSource.sh
+
+5)Add APIKeys to db/profile.conf
 ```
 
 ## USAGE
 ```
-Basic Usage:
+1)Print Help
+recon-007 -h
+
+2)Basic Usage:
 recon-007 -u example.com
 
+3)Print Phases
+recon-007 -x
+
+4)Resume from specific Phase when program stopped abruptly
+recon-007 -u example.com -p [PhaseNum]
 ```
 
 ## Follow
