@@ -39,10 +39,5 @@ recon-007 -u example.com -p [PhaseNum]
 ```
 
 ## Follow
-**Twitter** --> [Killer007](https://twitter.com/killer007p)
+**Twitter** --> [SickurityWizard](https://twitter.com/sickuritywizard)
 
-## Support
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/pkiller007)
-
-<a href="https://www.buymeacoffee.com/killer007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 20px !important;" ></a>
